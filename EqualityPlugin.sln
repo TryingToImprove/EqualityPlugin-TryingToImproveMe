@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityPlugin", "EqualityPlugin\EqualityPlugin.csproj", "{0437D816-7821-4108-A1A8-77AC87DD116C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityPlugin.Tests", "EqualityPlugin.Tests\EqualityPlugin.Tests.csproj", "{D38C36E8-1DC3-47E8-ACD4-F45BB02BD096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0437D816-7821-4108-A1A8-77AC87DD116C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0437D816-7821-4108-A1A8-77AC87DD116C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0437D816-7821-4108-A1A8-77AC87DD116C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0437D816-7821-4108-A1A8-77AC87DD116C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D38C36E8-1DC3-47E8-ACD4-F45BB02BD096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38C36E8-1DC3-47E8-ACD4-F45BB02BD096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38C36E8-1DC3-47E8-ACD4-F45BB02BD096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38C36E8-1DC3-47E8-ACD4-F45BB02BD096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
