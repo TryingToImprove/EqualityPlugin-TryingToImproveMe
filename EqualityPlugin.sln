@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityPlugin", "EqualityPlugin\EqualityPlugin.csproj", "{0437D816-7821-4108-A1A8-77AC87DD116C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityPlugin.Tests", "EqualityPlugin.Tests\EqualityPlugin.Tests.csproj", "{D38C36E8-1DC3-47E8-ACD4-F45BB02BD096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityPlugin.Code", "EqualityPlugin.Code\EqualityPlugin.Code.csproj", "{0437D816-7821-4108-A1A8-77AC87DD116C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

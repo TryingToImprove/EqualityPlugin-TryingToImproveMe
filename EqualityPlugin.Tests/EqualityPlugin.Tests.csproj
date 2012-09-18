@@ -51,9 +51,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EqualityPlugin\EqualityPlugin.csproj">
+    <ProjectReference Include="..\EqualityPlugin.Code\EqualityPlugin.Code.csproj">
       <Project>{0437d816-7821-4108-a1a8-77ac87dd116c}</Project>
-      <Name>EqualityPlugin</Name>
+      <Name>EqualityPlugin.Code</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

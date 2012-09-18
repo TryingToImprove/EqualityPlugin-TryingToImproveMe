@@ -7,8 +7,8 @@
     <ProjectGuid>{0437D816-7821-4108-A1A8-77AC87DD116C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EqualityPlugin</RootNamespace>
-    <AssemblyName>EqualityPlugin</AssemblyName>
+    <RootNamespace>EqualityPlugin.Code</RootNamespace>
+    <AssemblyName>EqualityPlugin.Code</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
